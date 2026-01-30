@@ -9,12 +9,22 @@ By treating summation as a continuous flow via the **Kyungu Summatial**, we demo
 
 ---
 
-## 📚 Official Publications (Open Access)
-This work is officially archived and timestamped on Zenodo:
+## 📚 Publications & DOI
 
-* **[Main Article] A Geometric Proof Framework for the Riemann Hypothesis** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18424442.svg)](https://doi.org/10.5281/zenodo.18424442)
+**1. Main Framework (Proof Manuscript)**
+<br>
+<a href="https://doi.org/10.5281/zenodo.18424442">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18424442.svg" alt="DOI: 10.5281/zenodo.18424442">
+</a>
 
-* **[Foundational Theory] The Kyungu Summatial Operator** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17188459.svg)](https://doi.org/10.5281/zenodo.17188459)
+<br><br>
+
+**2. Foundational Theory (The Summatial Operator)**
+<br>
+<a href="https://doi.org/10.5281/zenodo.17188459">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17188459.svg" alt="DOI: 10.5281/zenodo.17188459">
+</a>
+
 
 ---
 
